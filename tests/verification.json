@@ -1,0 +1,8 @@
+{
+  "syntax": "PASS: game.js, telemetry.js, browser-test.cjs",
+  "logic": "PASS: Node VM tests, including mobile touch and two-echo boss victory",
+  "browser": "NOT RUN: browser delegation tool unavailable; Shell-driven browser automation not permitted",
+  "corsHeaders": "Public probes: HTTP 200, Access-Control-Allow-Origin: * on status, settlements and economy/state",
+  "browserCors": "UNVERIFIED",
+  "screenshots": "NOT GENERATED"
+}

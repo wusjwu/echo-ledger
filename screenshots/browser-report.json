@@ -1,0 +1,59 @@
+{
+  "executedAt": "2026-11-08T02:57:33.597Z",
+  "contexts": [
+    {
+      "name": "desktop",
+      "consoleErrors": [],
+      "failedRequests": []
+    },
+    {
+      "name": "mobile",
+      "consoleErrors": [],
+      "failedRequests": []
+    },
+    {
+      "name": "offline practice",
+      "consoleErrors": [],
+      "failedRequests": []
+    }
+  ],
+  "screenshots": [
+    "/workspace/echo-v2/screenshots/title.png",
+    "/workspace/echo-v2/screenshots/gameplay.png",
+    "/workspace/echo-v2/screenshots/boss.png",
+    "/workspace/echo-v2/screenshots/mobile.png"
+  ],
+  "browserCors": true,
+  "telemetry": {
+    "live": true,
+    "reason": "",
+    "wheel": {
+      "active": false,
+      "rpm": 0,
+      "distance": 5037.964,
+      "work": 24291,
+      "anchor": 2684,
+      "projected": 2684
+    },
+    "realDistance": 5037.964,
+    "source": "live",
+    "requests": {
+      "settlements": {
+        "ok": true,
+        "cors": "cors",
+        "at": 1794106653807
+      },
+      "economy/state": {
+        "ok": true,
+        "cors": "cors",
+        "at": 1794106653827
+      },
+      "status": {
+        "ok": true,
+        "cors": "cors",
+        "at": 1794106653827
+      }
+    },
+    "settlements": 8
+  }
+}
