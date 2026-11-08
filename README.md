@@ -1,6 +1,6 @@
 # Echo Ledger: Burrow Protocol — v2
 
-**A community project for Squeekchain Genesis. Not officially affiliated. Built by 0xRicher.**
+**A community project for Squeekchain Genesis. Not officially affiliated. Built by @XiaoLingEr888.**
 
 An original, English-only canvas adventure about a mouse courier carrying ledger memories beneath Squeektoshi's real hamster wheel. Recorded movement becomes looping physical echoes. Cooperation with your past selves—not running speed, pet care, a dashboard or a multiplayer boss raid—is the central mechanic.
 
@@ -112,4 +112,4 @@ These files do **not** exist until that test is run. Review screenshots and fini
 
 The Genesis board already includes Hamster Tower (round-seeded floors), Wheel Run, companion and boss-raid concepts. Echo Ledger remains an original route-replay spatial cooperation game, with optional block seeding rather than another tower clone. The burrow narrative is community fiction, not official Squeekchain lore.
 
-**Built by 0xRicher.** All game currency and rewards are fictional. Public research fixtures contain no user credentials.
+**Built by @XiaoLingEr888.** All game currency and rewards are fictional. Public research fixtures contain no user credentials.
